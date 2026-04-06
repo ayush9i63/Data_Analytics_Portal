@@ -1,7 +1,6 @@
 **Project Description: Data Analysis Platform**  
 
 ## **Project Title:**  Data Analysis Portal
-
 ### **Project Overview**
 ### **View Website for Data Analytics**
 **https://krishnadataanalysis.streamlit.app/**
